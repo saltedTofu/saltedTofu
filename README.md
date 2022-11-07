@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 I am a Clinical Dietitian (RD) turned full-stack web developer. I began teaching myself to code in 2021 in order to create tools to make my RD job and life easier. While learning Javascript, HTML, and CSS, I fell in love with coding/web development and continuously find myself learning and implementing new technologies. Currently I find myself working a lot with React.js and Typescript
 
-*   🌍  I'm based in Houston, TX but am planning a move to San Francisco, CA
+*   🌍  I'm based in San Francisco, CA
 *   🖥️  See my portfolio at [https://tylerdansby.com/](http://tylerdansby.com)
 *   ✉️  You can contact me at [tdansby7@gmail.com](mailto:tdansby7@gmail.com)
 *   🚀  I'm currently working on [Dietitian Calc](http://dietitiancalc.com)
