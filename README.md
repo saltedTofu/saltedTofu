@@ -9,8 +9,7 @@ I am a Clinical Dietitian (RD) turned full-stack web developer. I began teaching
 *   🌍  I'm based in San Francisco, CA
 *   🖥️  See my portfolio at [https://tylerdansby.com/](http://tylerdansby.com)
 *   ✉️  You can contact me at [tdansby7@gmail.com](mailto:tdansby7@gmail.com)
-*   🚀  I'm currently working on [Dietitian Calc](http://dietitiancalc.com)
-*   🧠  I'm learning Python, Go
+*   🧠  I'm learning Java
 ### Skills<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
